@@ -7,7 +7,7 @@ Full stack developer
 I'm a self thaught software developer who loves to code. I enjoy creating things that live on internet. And i'm always curious to know about all the technological aspects that makes revolutionary changes in our day to day life.
 
 * 🌍  I'm based in Bangalore,India.
-* 🖥️  See my portfolio at [localhost3301.com](http://https://localhost-3301.github.io/Jyothish-personal-website-/)
+* 🖥️  See my portfolio at [localhost3301.com](localhost-3301.github.io/Jyothish/ )
 * ✉️  You can contact me at [jyothishjyo003@gmail.com](mailto:jyothishjyo003@gmail.com)
 * 🧠  I'm learning Python and Django framework
 * 🤝  I'm open to collaborating on Web app developement
